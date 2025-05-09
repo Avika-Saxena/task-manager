@@ -1,0 +1,6 @@
+.Main-header{
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding: 0px 10px !important;
+}
